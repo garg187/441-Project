@@ -1,7 +1,7 @@
 import pandas as pd
 
-# Step 1: Load the CSV file
-file_path = "LA_drought_raw.csv"  # Change this to your actual file path
+
+file_path = "LA_drought_raw.csv" 
 df = pd.read_csv(file_path)
 
 # Step 2: Convert the 'DATE' column to a usable format (extract the year)
@@ -13,17 +13,17 @@ df_filtered = df[(df["YEAR"] >= 2002) & (df["YEAR"] <= 2025)]
 # Step 4: Drop the helper 'YEAR' column (if not needed)
 df_filtered = df_filtered.drop(columns=["YEAR"])
 
-# Step 5: Overwrite the original file with the filtered data
+
 df_filtered.to_csv(file_path, index=False)
 
 print("CSV file successfully updated with dates from 2002 to 2025!")
 import pandas as pd
 
-# Step 1: Load the CSV file
-file_path = "LA_drought_raw.csv"  # Update this with the actual file path
+
+file_path = "LA_drought_raw.csv"  
 df = pd.read_csv(file_path)
 
-# Step 2: Rename columns (if needed)
+# Step 2: Rename columns
 df.rename(columns={'DATE': 'Date'}, inplace=True)
 
 # Step 3: Convert `Date` column to datetime format
@@ -50,7 +50,7 @@ df.to_csv(file_path, index=False)
 print(f"Data cleaning completed! The file '{file_path}' has been updated.")
 import pandas as pd
 
-# Load the CSV file
+
 file_path = "LA_drought_raw.csv"  # Change this to your actual file path
 df = pd.read_csv(file_path)
 
