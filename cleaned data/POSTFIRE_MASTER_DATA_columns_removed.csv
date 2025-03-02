@@ -1,0 +1,539 @@
+﻿Incident Start Date,* Damage,Hazard Type,If Affected 1-9% - Where did fire start?,If Affected 1-9% - What started fire?,Structure Defense Actions Taken,* Structure Type,Structure Category,# Units in Structure (if multi unit),# of Damaged Outbuildings < 120 SQFT,# of Non Damaged Outbuildings < 120 SQFT,* City,State,Zip Code,* CAL FIRE Unit,County,Latitude,Longitude,x,y
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.09515333,-118.4691891,-13187929.8,4041585.96
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.09498879,-118.4688025,-13187886.77,4041563.843
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.09433725,-118.4687863,-13187884.96,4041476.259
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.09391503,-118.4687735,-13187883.54,4041419.502
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.0902117,-118.4696832,-13187984.81,4040921.695
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08941663,-118.4674248,-13187733.4,4040814.824
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.0895406,-118.4653917,-13187507.08,4040831.487
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08736504,-118.4680276,-13187800.51,4040539.058
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08762455,-118.471861,-13188227.24,4040573.939
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08785123,-118.4718751,-13188228.81,4040604.408
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08808507,-118.471986,-13188241.16,4040635.84
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08834388,-118.4720045,-13188243.22,4040670.628
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.0886288,-118.4720615,-13188249.56,4040708.926
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08752639,-118.4723049,-13188276.66,4040560.745
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.09357163,-118.4686364,-13187868.28,4041373.341
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.09319471,-118.4685702,-13187860.92,4041322.673
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.09275253,-118.4685828,-13187862.31,4041263.235
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.09227469,-118.469117,-13187921.78,4041199.002
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.09165759,-118.4689703,-13187905.45,4041116.052
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.0912494,-118.4687773,-13187883.96,4041061.182
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08982852,-118.4661442,-13187590.84,4040870.189
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.0907613,-118.4689507,-13187903.27,4040995.571
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08962057,-118.469414,-13187954.84,4040842.236
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.09019854,-118.4657454,-13187546.46,4040919.926
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08867026,-118.4672633,-13187715.42,4040714.498
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.0885946,-118.4678235,-13187777.79,4040704.329
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08842156,-118.4667426,-13187657.46,4040681.07
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08772617,-118.4672921,-13187718.63,4040587.598
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.0862326,-118.4678448,-13187780.16,4040386.843
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08609264,-118.4682814,-13187828.76,4040368.03
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.09037441,-118.4658493,-13187558.02,4040943.567
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08626946,-118.4687278,-13187878.45,4040391.798
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08670144,-118.4682898,-13187829.69,4040449.862
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08683963,-118.4678138,-13187776.7,4040468.436
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.09058143,-118.46591,-13187564.78,4040971.394
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08727317,-118.4691698,-13187927.65,4040526.709
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08724682,-118.4696331,-13187979.23,4040523.168
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08905661,-118.4649416,-13187456.98,4040766.431
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.09081637,-118.4658995,-13187563.61,4041002.974
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08821212,-118.4693933,-13187952.53,4040652.917
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08879325,-118.4694055,-13187953.9,4040731.031
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08917975,-118.4693138,-13187943.68,4040782.982
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.09313516,-118.4661172,-13187587.84,4041314.67
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08732358,-118.4703076,-13188054.31,4040533.485
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.09360329,-118.4660331,-13187578.48,4041377.597
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08712135,-118.4718594,-13188227.06,4040506.303
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08731547,-118.4723068,-13188276.86,4040532.395
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08710107,-118.4723511,-13188281.8,4040503.577
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08784842,-118.4741077,-13188477.35,4040604.031
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08741018,-118.4739436,-13188459.08,4040545.125
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08717248,-118.4739214,-13188456.6,4040513.175
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.09463028,-118.4659735,-13187571.84,4041515.649
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08693611,-118.4738665,-13188450.49,4040481.404
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.0953669,-118.466089,-13187584.71,4041614.67
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.10106286,-118.4669132,-13187676.46,4042380.385
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08498864,-118.4666538,-13187647.58,4040219.641
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08577218,-118.4655723,-13187527.19,4040324.957
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.0859954,-118.4652771,-13187494.33,4040354.96
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08620901,-118.4648008,-13187441.3,4040383.673
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08676467,-118.4643045,-13187386.06,4040458.361
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08711203,-118.4643064,-13187386.27,4040505.049
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08740858,-118.4642347,-13187378.29,4040544.91
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08771078,-118.4651962,-13187485.31,4040585.53
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.0880508,-118.4652256,-13187488.59,4040631.235
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.10647717,-118.4747303,-13188546.65,4043108.285
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08897068,-118.4657559,-13187547.62,4040754.88
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08639039,-118.4675132,-13187743.25,4040408.052
+12/6/2017 12:00:00 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles ,CA,0,LAC,Los Angeles,34.08726496,-118.4686147,-13187865.87,4040525.606
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26261721,-118.3410768,-13173668.41,4064119.848
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31919148,-118.4013696,-13180380.17,4071742.594
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31913226,-118.4022651,-13180479.86,4071734.613
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26301067,-118.3465158,-13174273.88,4064172.844
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31860018,-118.4017587,-13180423.48,4071662.897
+12/6/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.09130956,-118.4669053,-13187675.57,4041069.269
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.27810814,-118.3254782,-13171931.98,4066206.566
+12/6/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08578377,-118.4663768,-13187616.74,4040326.515
+12/6/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.0856573,-118.4665017,-13187630.65,4040309.516
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31840819,-118.4017421,-13180421.64,4071637.02
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31792684,-118.4033469,-13180600.28,4071572.142
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26447868,-118.3474756,-13174380.72,4064370.578
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26347587,-118.3496206,-13174619.5,4064235.504
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.27935895,-118.3598839,-13175762,4066375.074
+12/6/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.09258874,-118.4662229,-13187599.61,4041241.218
+12/6/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08777928,-118.4724131,-13188288.7,4040594.738
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.27886124,-118.3594925,-13175718.43,4066308.023
+12/6/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08994927,-118.4665354,-13187634.4,4040886.419
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26278977,-118.3409683,-13173656.33,4064143.091
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31702757,-118.4043389,-13180710.71,4071450.937
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26328422,-118.3496964,-13174627.93,4064209.69
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26449635,-118.3537665,-13175081.02,4064372.959
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26546837,-118.3564841,-13175383.54,4064503.886
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26549401,-118.3567279,-13175410.68,4064507.341
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.27803197,-118.3257285,-13171959.84,4066196.305
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31807376,-118.4038766,-13180659.25,4071591.944
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31912997,-118.4017141,-13180418.52,4071734.303
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31912162,-118.4024347,-13180498.74,4071733.177
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26427259,-118.3479942,-13174438.46,4064342.819
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26546604,-118.3570599,-13175447.63,4064503.574
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31836263,-118.4020695,-13180458.09,4071630.879
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26494807,-118.348509,-13174495.76,4064433.804
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26454808,-118.3476323,-13174398.17,4064379.926
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26474647,-118.3542483,-13175134.65,4064406.649
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.27943514,-118.3601696,-13175793.8,4066385.339
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.27410165,-118.3382465,-13173353.35,4065666.832
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26333582,-118.346599,-13174283.13,4064216.641
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.27942295,-118.3597445,-13175746.49,4066383.697
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.30577908,-118.4130352,-13181678.79,4069934.959
+12/6/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.0909096,-118.4665401,-13187634.92,4041015.506
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26381796,-118.3461931,-13174237.96,4064281.582
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26367371,-118.3464187,-13174263.06,4064262.152
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26515974,-118.3531638,-13175013.93,4064462.315
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26501991,-118.3538388,-13175089.07,4064443.48
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.30593044,-118.4130143,-13181676.45,4069955.357
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26261977,-118.3413442,-13173698.17,4064120.193
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31716418,-118.4042975,-13180706.11,4071469.349
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26272059,-118.3413086,-13173694.21,4064133.772
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26539375,-118.3536035,-13175062.88,4064493.836
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31914125,-118.4020935,-13180460.76,4071735.824
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31861988,-118.4025698,-13180513.78,4071665.552
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26329031,-118.3496002,-13174617.22,4064210.511
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.27962822,-118.3597364,-13175745.59,4066411.35
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.27959514,-118.3596256,-13175733.25,4066406.895
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26454551,-118.3478918,-13174427.05,4064379.581
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26547802,-118.3561825,-13175349.96,4064505.187
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.28515279,-118.3709065,-13176989.03,4067155.648
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.30574694,-118.412843,-13181657.39,4069930.629
+12/6/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08973515,-118.4667267,-13187655.69,4040857.638
+12/6/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08800366,-118.4723223,-13188278.59,4040624.897
+12/5/2017 12:00:00 AM,Major (26-50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26499177,-118.3408682,-13173645.19,4064439.691
+12/5/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31928461,-118.3976101,-13179961.67,4071755.147
+12/5/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26484716,-118.3679002,-13176654.38,4064420.211
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31622832,-118.4047136,-13180752.43,4071343.215
+12/5/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31797936,-118.4039663,-13180669.24,4071579.221
+12/5/2017 12:00:00 AM,Minor (10-25%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31867087,-118.4034211,-13180608.55,4071672.424
+12/5/2017 12:00:00 AM,Minor (10-25%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26353274,-118.3451848,-13174125.71,4064243.165
+12/5/2017 12:00:00 AM,Minor (10-25%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26391066,-118.3468592,-13174312.11,4064294.068
+12/5/2017 12:00:00 AM,Minor (10-25%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.3187189,-118.4018463,-13180433.24,4071678.898
+12/5/2017 12:00:00 AM,Major (26-50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26484555,-118.3541321,-13175121.72,4064419.995
+12/5/2017 12:00:00 AM,Minor (10-25%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26546077,-118.3546872,-13175183.51,4064502.863
+12/5/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26499624,-118.3562265,-13175354.87,4064440.293
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.27868359,-118.358756,-13175636.45,4066284.091
+12/5/2017 12:00:00 AM,Minor (10-25%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.2783891,-118.3585246,-13175610.69,4066244.417
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.278554,-118.3578241,-13175532.71,4066266.632
+12/5/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.28451169,-118.3709194,-13176990.47,4067069.273
+12/5/2017 12:00:00 AM,Minor (10-25%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.30489345,-118.4136203,-13181743.91,4069815.611
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26366339,-118.360035,-13175778.83,4064260.763
+12/5/2017 12:00:00 AM,Major (26-50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26349464,-118.360581,-13175839.61,4064238.033
+12/5/2017 12:00:00 AM,Minor (10-25%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26468113,-118.3647608,-13176304.9,4064397.848
+12/6/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.09108343,-118.4658645,-13187559.71,4041038.872
+12/6/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.09196227,-118.4657068,-13187542.16,4041157.007
+12/6/2017 12:00:00 AM,Minor (10-25%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.09425279,-118.4659762,-13187572.14,4041464.906
+12/6/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08867471,-118.4726242,-13188312.2,4040715.097
+12/6/2017 12:00:00 AM,Major (26-50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08846154,-118.4724452,-13188292.27,4040686.444
+12/6/2017 12:00:00 AM,Major (26-50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08829155,-118.4724271,-13188290.26,4040663.595
+12/6/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08743872,-118.4717968,-13188220.1,4040548.961
+12/5/2017 12:00:00 AM,Minor (10-25%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31768915,-118.4041415,-13180688.74,4071540.106
+12/5/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31804202,-118.4019413,-13180443.82,4071587.667
+12/5/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31810577,-118.402338,-13180487.97,4071596.258
+12/5/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31877443,-118.4022555,-13180478.79,4071686.383
+12/5/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.2633524,-118.3501689,-13174680.54,4064218.873
+12/5/2017 12:00:00 AM,Major (26-50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26542671,-118.3539341,-13175099.68,4064498.276
+12/5/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26417777,-118.355647,-13175290.35,4064330.047
+12/5/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26414694,-118.355873,-13175315.51,4064325.894
+12/5/2017 12:00:00 AM,Major (26-50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26500332,-118.3557785,-13175304.99,4064441.246
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.27861208,-118.3585301,-13175611.3,4066274.457
+12/5/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26541769,-118.3573529,-13175480.26,4064497.061
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26547707,-118.3572351,-13175467.15,4064505.059
+12/5/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.28453914,-118.3716015,-13177066.4,4067072.972
+12/5/2017 12:00:00 AM,Minor (10-25%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.30526085,-118.4134031,-13181719.74,4069865.122
+12/5/2017 12:00:00 AM,Minor (10-25%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26317945,-118.3605778,-13175839.25,4064195.579
+12/6/2017 12:00:00 AM,Major (26-50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.08974812,-118.4664462,-13187624.46,4040859.382
+12/6/2017 12:00:00 AM,Minor (10-25%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.09127522,-118.4658196,-13187554.72,4041064.653
+12/6/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.09151379,-118.465669,-13187537.95,4041096.722
+12/6/2017 12:00:00 AM,Minor (10-25%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.09169258,-118.4657068,-13187542.16,4041120.754
+12/6/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.09260071,-118.4660267,-13187577.77,4041242.827
+12/6/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.09394693,-118.4660359,-13187578.79,4041423.79
+12/5/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26341821,-118.3433172,-13173917.81,4064227.737
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31948102,-118.3982328,-13180030.99,4071781.62
+12/5/2017 12:00:00 AM,Minor (10-25%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31635818,-118.4046836,-13180749.09,4071360.717
+12/5/2017 12:00:00 AM,Minor (10-25%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31886025,-118.4027485,-13180533.67,4071697.95
+12/5/2017 12:00:00 AM,Minor (10-25%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26301891,-118.3465944,-13174282.63,4064173.955
+12/5/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31904402,-118.3978193,-13179984.95,4071722.719
+12/5/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31858666,-118.4022068,-13180473.37,4071661.074
+12/5/2017 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26503464,-118.3565,-13175385.32,4064445.465
+12/5/2017 12:00:00 AM,Minor (10-25%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26542598,-118.3680063,-13176666.19,4064498.177
+12/5/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.26314612,-118.3427597,-13173855.75,4064191.09
+12/5/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31856146,-118.4034909,-13180616.31,4071657.678
+12/5/2017 12:00:00 AM,Affected (1-9%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.3180673,-118.402926,-13180553.43,4071591.074
+12/5/2017 12:00:00 AM,Minor (10-25%),Fire,,,,Mobile Home Double Wide,Single Residence,,,,Los Angeles,CA,0,LAC,Los Angeles,34.31835374,-118.4024709,-13180502.77,4071629.681
+12/5/2017 12:00:00 AM,Minor (10-25%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.27884583,-118.3575193,-13175498.79,4066305.947
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28391356,-118.5309707,-13194807.3,4066988.689
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Attached Patio Cover/Carport,Embers,Engine Company Actions,Single Family Residence Multi Story,Single Residence,0,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32571425,-118.4796539,-13189094.74,4072621.794
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28360314,-118.5303326,-13194736.27,4066946.867
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28430356,-118.531376,-13194852.42,4067041.233
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Unknown,Unknown,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32407341,-118.493065,-13190587.66,4072400.619
+10/10/2019 12:00:00 AM,Minor (10-25%),Fire,,,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,4,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32495754,-118.4942529,-13190719.89,4072519.794
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Unknown,Radiant Heat,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,4,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32503724,-118.494327,-13190728.14,4072530.538
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Unknown,Radiant Heat,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,4,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32512295,-118.494429,-13190739.5,4072542.09
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Unknown,Radiant Heat,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,4,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32473036,-118.4940397,-13190696.16,4072489.172
+10/10/2019 12:00:00 AM,Minor (10-25%),Fire,,,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,3,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32503277,-118.4936451,-13190652.24,4072529.935
+10/10/2019 12:00:00 AM,Minor (10-25%),Fire,,,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,3,0,0,Los Angeles,CA,,LAC,Los Angeles,34.3249151,-118.4936209,-13190649.54,4072514.074
+10/10/2019 12:00:00 AM,Minor (10-25%),Fire,,,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,4,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32513333,-118.493287,-13190612.37,4072543.49
+10/10/2019 12:00:00 AM,Minor (10-25%),Fire,,,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,4,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32534568,-118.4933528,-13190619.7,4072572.113
+10/10/2019 12:00:00 AM,Minor (10-25%),Fire,,,Unknown,Commercial Building Single Story,Nonresidential Commercial,,,,Los Angeles,CA,9342,LAC,Los Angeles,34.32673736,-118.5032508,-13191721.54,4072759.704
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.29028033,-118.5347047,-13195222.97,4067846.501
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.29038314,-118.5349055,-13195245.32,4067860.353
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28987644,-118.5358451,-13195349.92,4067792.082
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.29086598,-118.5403327,-13195849.47,4067925.41
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.29320666,-118.5384019,-13195634.54,4068240.795
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.29429118,-118.5393703,-13195742.34,4068386.927
+10/10/2019 12:00:00 AM,Major (26-50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.29443439,-118.5395562,-13195763.03,4068406.224
+10/10/2019 12:00:00 AM,Major (26-50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.29545201,-118.5408736,-13195909.69,4068543.343
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.29439016,-118.5412192,-13195948.15,4068400.263
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.2809168,-118.5606119,-13198106.95,4066584.95
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,Unknown,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,91342,LAC,Los Angeles,34.32713923,-118.503379,-13191735.81,4072813.875
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,Unknown,Commercial Building Single Story,Nonresidential Commercial,,,,Los Angeles,CA,,LAC,Los Angeles,34.30900364,-118.5137427,-13192889.49,4070369.519
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,Unknown,Commercial Building Single Story,Nonresidential Commercial,,,,Los Angeles,CA,,LAC,Los Angeles,34.30901699,-118.51357,-13192870.27,4070371.317
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28392825,-118.531148,-13194827.04,4066990.668
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Eaves,Embers,Other,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28434876,-118.53192,-13194912.98,4067047.323
+10/10/2019 12:00:00 AM,Inaccessible,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28456447,-118.5326092,-13194989.7,4067076.384
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,Unknown,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.306398,-118.5167261,-13193221.6,4070018.367
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.30656931,-118.5170284,-13193255.25,4070041.454
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Eaves,Embers,Engine Company Actions,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.29004264,-118.5343043,-13195178.39,4067814.475
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,,LAC,Los Angeles,34.28989507,-118.5349426,-13195249.45,4067794.592
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.29306119,-118.5381878,-13195610.7,4068221.194
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Deck Elevated,Direct flame impingement,Engine Company Actions,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.3223333,-118.4850302,-13189693.22,4072166.069
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,Unknown,Commercial Building Single Story,Nonresidential Commercial,,,,Los Angeles,CA,,LAC,Los Angeles,34.31731913,-118.482971,-13189464,4071490.234
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,Unknown,Commercial Building Single Story,Nonresidential Commercial,,,,Los Angeles,CA,,LAC,Los Angeles,34.31732335,-118.4828773,-13189453.57,4071490.802
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,Unknown,Commercial Building Single Story,Nonresidential Commercial,,,,Los Angeles,CA,,LAC,Los Angeles,34.31735752,-118.4828674,-13189452.46,4071495.408
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,,LAC,Los Angeles,34.2944332,-118.5393371,-13195738.64,4068406.063
+10/10/2019 12:00:00 AM,Major (26-50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.29481999,-118.5402746,-13195843.01,4068458.18
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.2960404,-118.5411811,-13195943.92,4068622.627
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Eaves,Radiant Heat,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.29512135,-118.5404678,-13195864.51,4068498.788
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Attached Patio Cover/Carport,Embers,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.29622486,-118.540972,-13195920.64,4068647.481
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.2964304,-118.5410417,-13195928.4,4068675.177
+10/10/2019 12:00:00 AM,Minor (10-25%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.29511692,-118.5411598,-13195941.54,4068498.19
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Eaves,Embers,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.29462942,-118.5407306,-13195893.77,4068432.502
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.29460894,-118.5397918,-13195789.26,4068429.743
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.29470201,-118.5400412,-13195817.03,4068442.283
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,,LAC,Los Angeles,34.32837263,-118.5020437,-13191587.16,4072980.135
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Attached Patio Cover/Carport,Embers,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.29034735,-118.5397818,-13195788.15,4067855.531
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,,LAC,Los Angeles,34.28964047,-118.5396448,-13195772.9,4067760.287
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Attached Patio Cover/Carport,Direct flame impingement,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28954282,-118.5396515,-13195773.64,4067747.131
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.2862867,-118.5599531,-13198033.61,4067308.421
+10/10/2019 12:00:00 AM,Minor (10-25%),Fire,,,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,4,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32540613,-118.4899756,-13190243.74,4072580.261
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Window,Embers,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,4,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32531532,-118.4900547,-13190252.55,4072568.02
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Attached Patio Cover/Carport,,Engine Company Actions,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28259417,-118.5598234,-13198019.17,4066810.932
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28581667,-118.5606542,-13198111.65,4067245.093
+10/10/2019 12:00:00 AM,Minor (10-25%),Fire,Roof,,Engine Company Actions,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28557537,-118.5603723,-13198080.27,4067212.583
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.2859374,-118.5602855,-13198070.61,4067261.36
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28696607,-118.5592569,-13197956.11,4067399.953
+10/10/2019 12:00:00 AM,Minor (10-25%),Fire,Siding,Embers,,Commercial Building Single Story,Nonresidential Commercial,,,,Los Angeles,CA,,LAC,Los Angeles,34.27840515,-118.5639207,-13198475.28,4066246.579
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Window,Embers,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,4,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32475494,-118.489666,-13190209.28,4072492.485
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,Combination of Actions,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,,LAC,Los Angeles,34.28263493,-118.526976,-13194362.62,4066816.424
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Siding,Embers,Combination of Actions,Single Family Residence Multi Story,Single Residence,,,1,Los Angeles,CA,,LAC,Los Angeles,34.28232696,-118.5268438,-13194347.89,4066774.932
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.2872763,-118.5590073,-13197928.32,4067441.752
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28758272,-118.5585862,-13197881.45,4067483.037
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Unknown,Radiant Heat,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.281489,-118.5642114,-13198507.64,4066662.039
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Window,Embers,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,6,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32289181,-118.4953945,-13190846.98,4072241.351
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Window,Embers,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,6,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32291038,-118.4953025,-13190836.74,4072243.854
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Unknown,Radiant Heat,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28137694,-118.5642128,-13198507.8,4066646.941
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Window,Embers,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,6,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32293888,-118.4952147,-13190826.96,4072247.695
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Unknown,Radiant Heat,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28169622,-118.5643676,-13198525.03,4066689.957
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Window,Embers,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,6,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32294884,-118.4951177,-13190816.16,4072249.038
+10/10/2019 12:00:00 AM,Minor (10-25%),Fire,,,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,4,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32455462,-118.4946739,-13190766.75,4072465.483
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Unknown,Radiant Heat,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,4,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32437392,-118.494585,-13190756.86,4072441.127
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Window,Embers,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,6,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32298295,-118.4949596,-13190798.56,4072253.635
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Unknown,Radiant Heat,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28204162,-118.5645763,-13198548.26,4066736.49
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Window,Embers,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,6,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32300908,-118.4948778,-13190789.46,4072257.158
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Window,Embers,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,6,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32304685,-118.4947929,-13190780.01,4072262.249
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Window,Embers,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,6,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32307315,-118.4946956,-13190769.17,4072265.794
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Unknown,Radiant Heat,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28216253,-118.564608,-13198551.79,4066752.779
+10/10/2019 12:00:00 AM,Minor (10-25%),Fire,,,Engine Company Actions,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.2828469,-118.5653586,-13198635.35,4066844.982
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Unknown,Radiant Heat,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28321846,-118.5656153,-13198663.92,4066895.041
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Eaves,Direct flame impingement,Unknown,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28828406,-118.5580624,-13197823.13,4067577.532
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Unknown,Unknown,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28272703,-118.5652451,-13198622.71,4066828.832
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Unknown,Radiant Heat,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,6,0,0,Los Angeles,CA,,LAC,Los Angeles,34.32447876,-118.4931109,-13190592.76,4072455.258
+10/10/2019 12:00:00 AM,Minor (10-25%),Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28677311,-118.5594479,-13197977.36,4067373.955
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Unknown,Radiant Heat,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28470888,-118.5654787,-13198648.71,4067095.842
+10/10/2019 12:00:00 AM,Major (26-50%),Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,,LAC,Los Angeles,34.2799983,-118.5640313,-13198487.59,4066461.208
+10/10/2019 12:00:00 AM,Destroyed (>50%),Fire,,,Unknown,Commercial Building Single Story,Nonresidential Commercial,,,,Los Angeles,CA,,LAC,Los Angeles,34.32305251,-118.5039805,-13191802.77,4072263.011
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Siding,Embers,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28921174,-118.5604739,-13198091.59,4067702.523
+10/10/2019 12:00:00 AM,Inaccessible,Fire,,,,Commercial Building Single Story,Nonresidential Commercial,,,,Los Angeles,CA,,LAC,Los Angeles,34.32752653,-118.5035616,-13191756.13,4072866.082
+10/10/2019 12:00:00 AM,Inaccessible,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28420097,-118.5240436,-13194036.19,4067027.411
+10/10/2019 12:00:00 AM,Inaccessible,Fire,,,,Commercial Building Single Story,Nonresidential Commercial,,,,Los Angeles,CA,,LAC,Los Angeles,34.28344525,-118.5257495,-13194226.09,4066925.595
+10/10/2019 12:00:00 AM,Minor (10-25%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28773552,-118.5443459,-13196296.22,4067503.624
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Roof,Embers,Engine Company Actions,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28874024,-118.5555339,-13197541.67,4067638.994
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Attached Fence,Radiant Heat,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28303349,-118.5625803,-13198326.07,4066870.12
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Eaves,Embers,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28287698,-118.5626135,-13198329.76,4066849.035
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Eaves,Embers,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28280835,-118.5626392,-13198332.62,4066839.788
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Unknown,Embers,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28265893,-118.5626782,-13198336.97,4066819.657
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Deck Elevated,Embers,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.27984889,-118.5621386,-13198276.89,4066441.079
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Deck Elevated,Direct flame impingement,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.27961092,-118.5621781,-13198281.29,4066409.02
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28541861,-118.536571,-13195430.72,4067191.462
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Deck Elevated,Embers,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.27885194,-118.5615665,-13198213.21,4066306.771
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Deck Elevated,Embers,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.27882323,-118.5615434,-13198210.64,4066302.902
+10/10/2019 12:00:00 AM,Major (26-50%),Fire,,,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.27878058,-118.5614862,-13198204.27,4066297.156
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Deck Elevated,Embers,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.27871009,-118.5614134,-13198196.17,4066287.66
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Deck Elevated,Embers,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.27862653,-118.5613349,-13198187.43,4066276.403
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Deck on Grade,Direct flame impingement,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.27843746,-118.5610547,-13198156.24,4066250.932
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Deck Elevated,Direct flame impingement,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.27834651,-118.5611206,-13198163.58,4066238.68
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Deck Elevated,Direct flame impingement,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.27828702,-118.56111,-13198162.39,4066230.665
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Deck Elevated,Embers,Engine Company Actions,Multi Family Residence Multi Story,Multiple Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.27763082,-118.5612829,-13198181.64,4066142.263
+10/10/2019 12:00:00 AM,Minor (10-25%),Fire,Roof,Embers,Engine Company Actions,Single Family Residence Multi Story,Single Residence,,0,0,Los Angeles,CA,,LAC,Los Angeles,34.28327168,-118.5302667,-13194728.93,4066902.21
+10/10/2019 12:00:00 AM,Inaccessible,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28987876,-118.5399104,-13195802.47,4067792.394
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Unknown,Radiant Heat,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.29027988,-118.5680694,-13198937.11,4067846.441
+10/10/2019 12:00:00 AM,Inaccessible,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.292428,-118.5374816,-13195532.09,4068135.877
+10/10/2019 12:00:00 AM,Inaccessible,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.29198831,-118.5368257,-13195459.08,4068076.633
+10/10/2019 12:00:00 AM,Minor (10-25%),Fire,,,Engine Company Actions,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.283501,-118.530599,-13194765.92,4066933.106
+10/10/2019 12:00:00 AM,Affected (1-9%),Fire,Window,Radiant Heat,Engine Company Actions,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,,LAC,Los Angeles,34.28390139,-118.5306816,-13194775.11,4066987.05
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1109954,-118.5004135,-13191405.69,4043715.75
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1078957,-118.5020459,-13191587.41,4043299.006
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.112807,-118.5003687,-13191400.7,4043959.325
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1201902,-118.5049629,-13191912.13,4044952.068
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.12436,-118.5087215,-13192330.53,4045512.789
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1098774,-118.500904,-13191460.3,4043565.436
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1100215,-118.5003521,-13191398.86,4043584.813
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Multi Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.121477,-118.5078347,-13192231.81,4045125.11
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1090507,-118.5019094,-13191572.22,4043454.284
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1116843,-118.5000487,-13191365.08,4043808.376
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1215171,-118.5084257,-13192297.61,4045130.492
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1207243,-118.5057384,-13191998.45,4045023.893
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Hand Crew Fuel Break,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1082933,-118.5022599,-13191611.23,4043352.463
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1092255,-118.5022056,-13191605.19,4043477.792
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1213981,-118.5072564,-13192167.44,4045114.502
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1207743,-118.5053336,-13191953.39,4045030.614
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1152933,-118.5023237,-13191618.33,4044293.625
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1209303,-118.5060023,-13192027.83,4045051.593
+1/7/2025 8:02:01 AM,Affected (1-9%),Fire,Unknown,Unknown,,Infrastructure,Infrastructure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1288166,-118.5128835,-13192793.84,4046112.086
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1243125,-118.5081362,-13192265.38,4045506.394
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1226032,-118.5070036,-13192139.29,4045276.549
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1211173,-118.5062979,-13192060.74,4045076.744
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1079803,-118.5024199,-13191629.04,4043310.379
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Multi Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1090716,-118.5013854,-13191513.88,4043457.095
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1259139,-118.5089514,-13192356.13,4045721.748
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1094668,-118.5021746,-13191601.74,4043510.231
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1220367,-118.506778,-13192114.19,4045200.37
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1211333,-118.5060621,-13192034.48,4045078.889
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Hand Crew Fuel Break,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1211228,-118.5056802,-13191991.98,4045077.479
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1205354,-118.505348,-13191954.99,4044998.491
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1246542,-118.5087355,-13192332.09,4045552.351
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1202974,-118.5051455,-13191932.45,4044966.493
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1107342,-118.5005164,-13191417.14,4043680.637
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1101878,-118.5007153,-13191439.28,4043607.173
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1137385,-118.500827,-13191451.72,4044084.567
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1200068,-118.5046399,-13191876.17,4044927.41
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1176295,-118.5027813,-13191669.27,4044607.748
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1087844,-118.501483,-13191524.75,4043418.485
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1257717,-118.508706,-13192328.81,4045702.624
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.12123,-118.5083933,-13192294,4045091.899
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Unknown,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1231937,-118.5071259,-13192152.92,4045355.95
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1104872,-118.5005765,-13191423.84,4043647.422
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1234453,-118.5071703,-13192157.85,4045389.776
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1075721,-118.5021529,-13191599.32,4043255.49
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1096724,-118.5011323,-13191485.71,4043537.873
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1132665,-118.5006787,-13191435.21,4044021.106
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1098119,-118.5005074,-13191416.15,4043556.623
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1144017,-118.5011041,-13191482.56,4044173.742
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1229043,-118.5071191,-13192152.16,4045317.032
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1213206,-118.5070171,-13192140.8,4045104.08
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Hand Crew Fuel Break,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1212571,-118.5054284,-13191963.95,4045095.54
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1214677,-118.508193,-13192271.7,4045123.853
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.109291,-118.5016509,-13191543.44,4043486.59
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1174866,-118.5027065,-13191660.95,4044588.534
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1215137,-118.506413,-13192073.56,4045130.043
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1093948,-118.5008749,-13191457.05,4043500.547
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1118157,-118.5000547,-13191365.74,4043826.04
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1213067,-118.5061548,-13192044.81,4045102.201
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1095227,-118.5006963,-13191437.17,4043517.747
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Hand Crew Fuel Break,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1085502,-118.5021212,-13191595.79,4043386.999
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1199469,-118.5046081,-13191872.63,4044919.361
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1223656,-118.5068511,-13192122.32,4045244.596
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1081935,-118.5018971,-13191570.84,4043339.041
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1103262,-118.5002114,-13191383.2,4043625.783
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1102088,-118.5002364,-13191385.97,4043609.99
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1217656,-118.5066154,-13192096.09,4045163.908
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1108639,-118.5008997,-13191459.82,4043698.076
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1087987,-118.5020417,-13191586.94,4043420.401
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1244373,-118.5084948,-13192305.3,4045523.178
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.110695,-118.500952,-13191465.64,4043675.361
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1150384,-118.5012264,-13191496.19,4044259.352
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.123755,-118.5073217,-13192174.71,4045431.426
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1213336,-118.5068308,-13192120.07,4045105.818
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.124397,-118.5083991,-13192294.64,4045517.757
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1088214,-118.5016166,-13191539.62,4043423.465
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.125608,-118.5084348,-13192298.62,4045680.614
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1218197,-118.5086991,-13192328.04,4045171.19
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.115924,-118.5022599,-13191611.23,4044378.426
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1112684,-118.5001768,-13191379.34,4043752.454
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0811521,-118.5111517,-13192601.06,4039703.981
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0828974,-118.508189,-13192271.25,4039938.564
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1026217,-118.504083,-13191814.18,4042589.957
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Hand Crew Fuel Break,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0850095,-118.509217,-13192385.69,4040222.449
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0906187,-118.5039531,-13191799.72,4040976.403
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.100657,-118.5036673,-13191767.91,4042325.82
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Combination of Actions,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.106956,-118.5026692,-13191656.8,4043172.666
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0674284,-118.5036111,-13191761.64,4037859.606
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0704131,-118.5049536,-13191911.09,4038260.705
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0850536,-118.5072482,-13192166.52,4040228.376
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0670439,-118.5039676,-13191801.33,4037807.939
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0649636,-118.4992831,-13191279.85,4037528.386
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0833172,-118.5084614,-13192301.58,4039994.98
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1044646,-118.5043501,-13191843.91,4042837.714
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0679502,-118.5034947,-13191748.69,4037929.726
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0667569,-118.5007411,-13191442.16,4037769.371
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.091321,-118.5043845,-13191847.74,4041070.8
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,2,Los Angeles,CA,90049,LAC,Los Angeles,34.065147,-118.4999884,-13191358.36,4037553.04
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Combination of Actions,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1055143,-118.5038207,-13191784.97,4042978.831
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0677235,-118.5039805,-13191802.76,4037899.261
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0648323,-118.4997137,-13191327.79,4037510.739
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0998585,-118.50287,-13191679.15,4042218.477
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0646457,-118.4989213,-13191239.58,4037485.668
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0868761,-118.5042745,-13191835.5,4040473.332
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.103491,-118.5042397,-13191831.62,4042706.823
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1058297,-118.5026914,-13191659.27,4043021.232
+1/7/2025 8:02:01 AM,Destroyed (>50%),Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1048113,-118.5049522,-13191910.93,4042884.319
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1062723,-118.502509,-13191638.96,4043080.748
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Engine Company Actions,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0821398,-118.5102611,-13192501.92,4039836.74
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1004946,-118.5037527,-13191777.41,4042303.985
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Utility Misc Structure,Other Minor Structure,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1050315,-118.5042621,-13191834.12,4042913.923
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0845384,-118.5081388,-13192265.66,4040159.119
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1049839,-118.5040404,-13191809.44,4042907.531
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0653188,-118.5003164,-13191394.88,4037576.122
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Combination of Actions,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1076457,-118.502515,-13191639.63,4043265.389
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1011766,-118.5037585,-13191778.06,4042395.678
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0810056,-118.5104742,-13192525.64,4039684.298
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0843083,-118.5093878,-13192404.7,4040128.193
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0845222,-118.5093615,-13192401.77,4040156.941
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1158349,-118.5018737,-13191568.24,4044366.444
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0866455,-118.504372,-13191846.34,4040442.348
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.090159,-118.5039989,-13191804.81,4040914.606
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1028839,-118.5041095,-13191817.12,4042625.207
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0656402,-118.4998243,-13191340.1,4037619.31
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.100071,-118.5035612,-13191756.09,4042247.038
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0850036,-118.5075358,-13192198.54,4040221.656
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0899275,-118.504035,-13191808.83,4040883.493
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1031583,-118.5041817,-13191825.17,4042662.088
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Combination of Actions,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0813467,-118.5108521,-13192567.71,4039730.143
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0839312,-118.5096296,-13192431.62,4040077.516
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0659499,-118.5000945,-13191370.18,4037660.923
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1156096,-118.5017489,-13191554.34,4044336.148
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0644212,-118.4991885,-13191269.33,4037455.502
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1047701,-118.5037215,-13191773.93,4042878.785
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1155401,-118.5014023,-13191515.76,4044326.812
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Combination of Actions,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1067791,-118.50278,-13191669.13,4043148.881
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0655016,-118.4996578,-13191321.57,4037600.687
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.10412,-118.5043368,-13191842.43,4042791.376
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.092513,-118.5040346,-13191808.79,4041231.033
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1166608,-118.5020298,-13191585.61,4044477.503
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.102218,-118.504528,-13191863.71,4042535.672
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0658498,-118.5005643,-13191422.47,4037647.477
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0683676,-118.5036061,-13191761.09,4037985.825
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Combination of Actions,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0851924,-118.509456,-13192412.29,4040247.028
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0673881,-118.502169,-13191601.11,4037854.195
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1056361,-118.5027944,-13191670.73,4042995.212
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Combination of Actions,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1053675,-118.5033987,-13191738,4042959.102
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Hand Crew Fuel Break,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0852992,-118.5092328,-13192387.45,4040261.384
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0870634,-118.5043581,-13191844.8,4040498.519
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1023768,-118.5045796,-13191869.46,4042557.021
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Combination of Actions,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1070669,-118.5027789,-13191669.01,4043187.572
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,1,Los Angeles,CA,90049,LAC,Los Angeles,34.0847625,-118.5093749,-13192403.27,4040189.249
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1057491,-118.5024129,-13191628.27,4043010.394
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1051266,-118.5035201,-13191751.51,4042926.716
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1051718,-118.5044383,-13191853.73,4042932.787
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Combination of Actions,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.107207,-118.5025839,-13191647.29,4043206.413
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0834788,-118.5087422,-13192332.84,4040016.707
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1039408,-118.5045797,-13191869.47,4042767.285
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0721832,-118.507047,-13192144.13,4038498.589
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0696098,-118.5050891,-13191926.18,4038152.751
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Combination of Actions,Single Family Residence Multi Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.0986799,-118.5052324,-13191942.12,4042060.032
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0998231,-118.5035015,-13191749.45,4042213.718
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0850802,-118.5080262,-13192253.14,4040231.951
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,0,LAC,Los Angeles,34.0995916,-118.5026256,-13191651.93,4042182.601
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Engine Company Actions,Single Family Residence Single Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1042388,-118.5046126,-13191873.13,4042807.357
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0840807,-118.5092895,-13192393.76,4040097.603
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0694645,-118.5046399,-13191876.17,4038133.225
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0850531,-118.5069369,-13192131.87,4040228.305
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0667412,-118.5017575,-13191555.31,4037767.259
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1040032,-118.5040726,-13191813.02,4042775.675
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1037332,-118.5045811,-13191869.63,4042739.381
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0904661,-118.5039414,-13191798.42,4040955.889
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0808999,-118.5109384,-13192577.31,4039670.082
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0660888,-118.5007526,-13191443.44,4037679.589
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0848913,-118.509408,-13192406.95,4040206.561
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1009382,-118.5036802,-13191769.34,4042363.626
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1015072,-118.5040723,-13191812.98,4042440.125
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.105062,-118.5030333,-13191697.32,4042918.031
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.116355,-118.5019848,-13191580.61,4044436.375
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.103726,-118.504293,-13191837.55,4042738.417
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Combination of Actions,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1065466,-118.5028861,-13191680.93,4043117.615
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1053409,-118.5028858,-13191680.9,4042955.521
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0820942,-118.5095697,-13192424.96,4039830.599
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1014597,-118.5039126,-13191795.21,4042433.735
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1055181,-118.5026159,-13191650.86,4042979.338
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1016838,-118.5039572,-13191800.17,4042463.867
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1060795,-118.5025819,-13191647.08,4043054.816
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0819732,-118.5101098,-13192485.08,4039814.338
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0657622,-118.5005214,-13191417.71,4037635.704
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.067688,-118.502589,-13191647.87,4037894.5
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0848575,-118.5087589,-13192334.69,4040202.015
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1046964,-118.5042684,-13191834.82,4042868.868
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0818282,-118.5099159,-13192463.5,4039794.859
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1160132,-118.5019228,-13191573.71,4044390.419
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0811812,-118.5106975,-13192550.5,4039707.888
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0847123,-118.5080014,-13192250.37,4040182.499
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.0922388,-118.5043066,-13191839.07,4041194.179
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0995041,-118.5034175,-13191740.09,4042170.834
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.0914755,-118.504332,-13191841.89,4041091.574
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1003443,-118.5035587,-13191755.81,4042283.78
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Combination of Actions,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1074555,-118.5025368,-13191642.06,4043239.81
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0674168,-118.5031613,-13191711.58,4037858.049
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0848794,-118.5077334,-13192220.54,4040204.952
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Engine Company Actions,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0821991,-118.5100037,-13192473.27,4039844.698
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0651234,-118.4997923,-13191336.54,4037549.863
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1023586,-118.5041546,-13191822.15,4042554.578
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Single Story,Single Residence,,,1,Los Angeles,CA,90049,LAC,Los Angeles,34.0652644,-118.4994306,-13191296.27,4037568.805
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.1020179,-118.5041318,-13191819.61,4042508.783
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.085355,-118.50865,-13192322.57,4040268.878
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0836519,-118.5095342,-13192421,4040039.971
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0924088,-118.5039491,-13191799.27,4041217.028
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0837434,-118.5090807,-13192370.52,4040052.266
+1/7/2025 8:02:01 AM,Affected (1-9%),Fire,Deck Elevated,Direct flame impingement,,Utility Misc Structure,Other Minor Structure,,,,Los Angeles,CA,90019,LAC,Los Angeles,34.0394161,-118.5571316,-13197719.52,4034095.877
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0685838,-118.5041384,-13191820.35,4038014.873
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0662254,-118.5010053,-13191471.57,4037697.945
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Fire Retardant Drop,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.066056,-118.5012288,-13191496.45,4037675.184
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Unknown,Single Family Residence Multi Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.0840044,-118.5086984,-13192327.96,4040087.351
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Unknown,Single Family Residence Multi Story,Single Residence,,,1,Los Angeles,CA,90049,LAC,Los Angeles,34.0783715,-118.5084759,-13192303.19,4039330.265
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Unknown,Single Family Residence Multi Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.0825486,-118.5082158,-13192274.23,4039891.684
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Unknown,Single Family Residence Multi Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.079298,-118.5093685,-13192402.56,4039454.787
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0818368,-118.5094584,-13192412.56,4039796.008
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Unknown,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0816558,-118.5098086,-13192451.55,4039771.683
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Single Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.1045366,-118.5039076,-13191794.65,4042847.389
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Unknown,Single Family Residence Multi Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.0843326,-118.5088722,-13192347.3,4040131.463
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Unknown,Single Family Residence Multi Story,Single Residence,,,1,Los Angeles,CA,90049,LAC,Los Angeles,34.0794286,-118.5096722,-13192436.36,4039472.342
+1/7/2025 8:02:01 AM,No Damage,Fire,,,Unknown,Single Family Residence Single Story,Single Residence,,0,0,Los Angeles,CA,90049,LAC,Los Angeles,34.0791341,-118.5091646,-13192379.86,4039432.759
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.116846,-118.5024331,-13191630.51,4044502.403
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0845911,-118.5088802,-13192348.2,4040166.209
+1/7/2025 8:02:01 AM,No Damage,Fire,,,,Single Family Residence Multi Story,Single Residence,,,,Los Angeles,CA,90049,LAC,Los Angeles,34.0807277,-118.5109224,-13192575.53,4039646.945
